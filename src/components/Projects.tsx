@@ -36,8 +36,8 @@ const Projects = () => {
       description: 'A modern, responsive portfolio website built with React and Tailwind CSS. Features smooth animations, dark mode, and optimized performance.',
       image: image3,
       technologies: ['React', 'Tailwind CSS', 'Framer Motion', 'Vite'],
-      githubUrl: 'https://github.com/akky2000',
-      liveUrl: 'https://alexjohnson.dev',
+      githubUrl: 'https://github.com/akky2000/my_portfolio',
+      liveUrl: 'https://my-portfolio-silk-six-60.vercel.app/',
       featured: false
     },
     {
@@ -63,7 +63,7 @@ const Projects = () => {
       description: 'A clean and responsive blog website built for readers to explore and engage with my published articles. It features dynamic post rendering, user-friendly navigation, and a content-first reading experience.',
       image: image2,
       technologies: ['react', 'socket.io', 'typescript', 'Mongodb', 'api integration'],
-      githubUrl: 'https://github.com/alexjohnson/blockchain-voting',
+      githubUrl: 'https://github.com/akky2000',
       liveUrl: 'https://blog-site.com',
       featured: false
     }
